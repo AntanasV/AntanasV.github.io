@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Antano Vizbaro tinklalapis</title>
+    <link>https://antanasv.github.io/posts/</link>
+    <description>Recent content in Posts on Antano Vizbaro tinklalapis</description>
+    <generator>Hugo</generator>
+    <language>lt-lt</language>
+    <lastBuildDate>Wed, 11 Nov 2026 17:13:00 +0200</lastBuildDate>
+    <atom:link href="https://antanasv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmasis įrašas</title>
+      <link>https://antanasv.github.io/posts/pirmasis-irasas/</link>
+      <pubDate>Wed, 11 Nov 2026 17:13:00 +0200</pubDate>
+      <guid>https://antanasv.github.io/posts/pirmasis-irasas/</guid>
+      <description>&lt;p&gt;# Sveiki!&lt;/p&gt;
+&lt;p&gt;Tinklalapis, sukurtas naudojant **Hugo**.&lt;/p&gt;
+&lt;p&gt;Šis puslapis yra Debesų kompiuterijos laboratorinio darbo dalis.&lt;/p&gt;
+&lt;p&gt;Autorius: Antanas Vizbaras, PRIf-23/4.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nginx laboratorinis darbas</title>
+      <link>https://antanasv.github.io/posts/nginx-laboratorinis/</link>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0200</pubDate>
+      <guid>https://antanasv.github.io/posts/nginx-laboratorinis/</guid>
+      <description>&lt;h2 id=&#34;nginx-interneto-serveris&#34;&gt;Nginx interneto serveris&lt;/h2&gt;
+&lt;p&gt;Debesų kompiuterijos laboratorinio darbo metu įdiegiau Nginx.&lt;/p&gt;
+&lt;h2 id=&#34;paveikslėlis&#34;&gt;Paveikslėlis&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Nginx serverio puslapis&#34; loading=&#34;lazy&#34; src=&#34;https://antanasv.github.io/images/nginx.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;naudotos-linux-komandos&#34;&gt;Naudotos Linux komandos&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install nginx
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl start nginx
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl status nginx
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
